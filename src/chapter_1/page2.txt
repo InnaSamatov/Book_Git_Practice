@@ -4,3 +4,4 @@ The class
 page 2 of my book
 
 some work here
+ 1 2 3 I edit page 2 after I commit it.
